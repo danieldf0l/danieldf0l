@@ -1,5 +1,6 @@
 # Daniel Filho Oliveira Lima
-ou df0l mesmo
+ou...
+  <img src="./assets/df0l_11087.gif"/>
 
 Here are some ideas to get you started:
 
