@@ -1,6 +1,6 @@
 # Daniel Filho Oliveira Lima
 ou...
-  <img src="./assets/df0l_13860.gif"/>
+  <img src="./assets/df0l_13873.gif"/>
 
 Here are some ideas to get you started:
 
