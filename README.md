@@ -29,6 +29,4 @@ Já estudei C#, Java, Python, HTML e CSS, mas hoje foco em JavaScript.
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieldf0l&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldf0l&layout=compact&langs_count=7&theme=transparent"/>
- 
-![Snake animation](https://github.com/danieldf0l/danieldf0l/blob/output/github-contribution-grid-snake.svg)
 </div>
