@@ -2,7 +2,7 @@
 ou...
   <img src="./assets/df0l_13873.gif"/>
 ## Sobre mim
-Tenho 17 anos, nasci e moro em São Paulo, SP. Sou apaixonado por CS, Volêi e basquete. 
+Tenho 18 anos, nasci e moro em São Paulo, SP. Sou apaixonado por CS, Volêi e basquete. 
 
 ## Contato
 <div> 
@@ -14,7 +14,7 @@ Tenho 17 anos, nasci e moro em São Paulo, SP. Sou apaixonado por CS, Volêi e b
 </div>
 
 ## Interesses
-Já estudei C#, Java, Python, HTML e CSS, mas hoje foco em JavaScript.
+Já estudei C#, Java, Python, HTML&CSS e JS, mas hoje foco em Python voltado para análise de dados com o Pandas, Numpy, Requests.
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
