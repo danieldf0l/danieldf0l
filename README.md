@@ -2,7 +2,7 @@
 ou...
   <img src="./assets/df0l_13873.gif"/>
 ## Sobre mim
-Tenho 18 anos, nasci e moro em São Paulo, SP. Sou apaixonado por CS, Volêi e basquete. 
+Tenho 19 anos, nasci e moro em São Paulo, SP. Sou apaixonado por CS, Volêi e basquete. 
 
 ## Contato
 <div> 
