@@ -21,8 +21,3 @@ Já estudei C#, Java, HTML&CSS e JS, mas hoje foco em Python voltado para análi
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img aling="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
-
-## Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldf0l&layout=compact&langs_count=7&theme=transparent"/>
-</div>
